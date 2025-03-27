@@ -335,7 +335,7 @@ $subject = "Leads Data Transfer Project: ".$Name_Subject." ".$yesterday."";
 		
 		$mail->Username = 'support.catchall@liveandinvestoverseas.com';
 		/*Password to use for SMTP authentication */
-		$mail->Password = "%tHr'$$7)p``7=ia!n";
+		$mail->Password = "";
 		/*Set who the message is to be sent from*/
 		$mail->setFrom('support.catchall@liveandinvestoverseas.com', "Leads | Live and Invest Overseas");
 		/*Set an alternative reply-to address*/
@@ -418,7 +418,7 @@ $subject = "Leads Data Transfer Project: ".$Name_Subject." ".$yesterday."";
 		
 		$mail->Username = 'support.catchall@liveandinvestoverseas.com';
 		/*Password to use for SMTP authentication */
-		$mail->Password = "%tHr'$$7)p``7=ia!n";
+		$mail->Password = "";
 		/*Set who the message is to be sent from*/
 		$mail->setFrom('support.catchall@liveandinvestoverseas.com', "Leads | Live and Invest Overseas");
 		/*Set an alternative reply-to address*/
@@ -495,7 +495,7 @@ $subject = "Leads Data Transfer Project: ".$Name_Subject." ".$yesterday."";
 		
 		$mail->Username = 'support.catchall@liveandinvestoverseas.com';
 		/*Password to use for SMTP authentication */
-		$mail->Password = "%tHr'$$7)p``7=ia!n";
+		$mail->Password = "";
 		/*Set who the message is to be sent from*/
 		$mail->setFrom('support.catchall@liveandinvestoverseas.com', "Leads | Live and Invest Overseas");
 		/*Set an alternative reply-to address*/
